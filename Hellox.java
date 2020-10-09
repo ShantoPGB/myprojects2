@@ -1,19 +1,10 @@
 public class Hello{
     public static void main(string[]args) {
-        system.out.println("vs code is Awesome.....");
-        
-
-        greeting("shanto ");
+        system.out.println("vs code is Awesome.....");  
     }
 
-   public static void greeting(string name){
-       system.out.println("pgb x " + name);
+   public static void message() {
+       system.out.println("Hooray!!! Now we are able to contribute on open source ...");
    }
 
-        display();
-    }
-
-  public static void display() {
-      system.out.println("hallo hallo");
-  }
-}
+ }
