@@ -7,4 +7,7 @@ public class Hello{
         return x'y'z;
     }
 
+  public static void display() {
+       system.out.println("merge comflict bother a lot");
+  }
 }
