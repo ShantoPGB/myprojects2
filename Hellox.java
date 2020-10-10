@@ -3,8 +3,7 @@ public class Hello{
         system.out.println("vs code is Awesome.....");  
     }
   
-    public static void sqr(int x) {
-        return x'x;
-    }
-
+  public static void display() {
+       system.out.println("merge comflict bother a lot");
+  }
 }
