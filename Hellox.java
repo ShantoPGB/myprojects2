@@ -7,4 +7,8 @@ public class Hello{
        system.out.println("Hooray!!! Now we are able to contribute on open source ...");
    }
 
+   public static void add(int a, int b) {
+       raturn a+b;
+   }
+
  }
